@@ -24,11 +24,11 @@ export const ResultComponent = ({ config }: ResultInput) => {
     return <div>
         <div style={{ display: "flex", justifyContent: "center", alignItems: "center", fontSize: "20px" }}>
             <h2>Congratulations! </h2>
-            <span >🎉🎉🎉</span>
+            <span > 🎉🎉🎉</span>
         </div>
         <div style={{ display: "flex", flexDirection: "column", justifyContent: "center", alignItems: "center" }}>
             <h2>You have won</h2>
-            <h1 style={{ color: "#f60" }}>{filteredResturants[roll].name}</h1>
+            <h1 style={{ color: "#f60", fontSize: "2.6em", paddingTop: "30px" }}>{filteredResturants[roll].name}</h1>
         </div>
     </div>
 }
