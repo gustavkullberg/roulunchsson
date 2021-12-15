@@ -14,7 +14,7 @@ export type Resturant = {
 export const resturants: Resturant[] = [
     {
         name: "Sen Kitchen",
-        distance: 1,
+        distance: 0,
         hasLuxuryPricerange: false,
         hasMediumPricerange: true,
         hasPoorPricerange: false,
@@ -27,7 +27,7 @@ export const resturants: Resturant[] = [
     },
     {
         name: "McDonalds",
-        distance: 1,
+        distance: 0,
         hasLuxuryPricerange: false,
         hasMediumPricerange: false,
         hasPoorPricerange: true,
@@ -40,7 +40,7 @@ export const resturants: Resturant[] = [
     },
     {
         name: "Holy Greens",
-        distance: 1,
+        distance: 0,
         hasLuxuryPricerange: false,
         hasMediumPricerange: true,
         hasPoorPricerange: false,
@@ -53,7 +53,7 @@ export const resturants: Resturant[] = [
     },
     {
         name: "Wokhouse",
-        distance: 1,
+        distance: 0,
         hasLuxuryPricerange: false,
         hasMediumPricerange: false,
         hasPoorPricerange: true,
@@ -66,7 +66,7 @@ export const resturants: Resturant[] = [
     },
     {
         name: "The Fishery",
-        distance: 1,
+        distance: 0,
         hasLuxuryPricerange: false,
         hasMediumPricerange: true,
         hasPoorPricerange: false,
@@ -79,7 +79,7 @@ export const resturants: Resturant[] = [
     },
     {
         name: "K25",
-        distance: 1,
+        distance: 0,
         hasLuxuryPricerange: false,
         hasMediumPricerange: true,
         hasPoorPricerange: false,
@@ -92,7 +92,7 @@ export const resturants: Resturant[] = [
     },
     {
         name: "Barrels",
-        distance: 1,
+        distance: 0,
         hasLuxuryPricerange: true,
         hasMediumPricerange: false,
         hasPoorPricerange: false,
@@ -105,7 +105,7 @@ export const resturants: Resturant[] = [
     },
     {
         name: "GUTE",
-        distance: 1,
+        distance: 0,
         hasLuxuryPricerange: false,
         hasMediumPricerange: true,
         hasPoorPricerange: false,
@@ -118,7 +118,7 @@ export const resturants: Resturant[] = [
     },
     {
         name: "Il Molo",
-        distance: 1,
+        distance: 0,
         hasLuxuryPricerange: false,
         hasMediumPricerange: true,
         hasPoorPricerange: false,
@@ -131,7 +131,7 @@ export const resturants: Resturant[] = [
     },
     {
         name: "YI'S SUSHI & CAFÉ",
-        distance: 1,
+        distance: 0,
         hasLuxuryPricerange: false,
         hasMediumPricerange: true,
         hasPoorPricerange: false,
@@ -144,7 +144,7 @@ export const resturants: Resturant[] = [
     },
     {
         name: "Stories",
-        distance: 1,
+        distance: 0,
         hasLuxuryPricerange: false,
         hasMediumPricerange: true,
         hasPoorPricerange: false,
@@ -157,7 +157,7 @@ export const resturants: Resturant[] = [
     },
     {
         name: "Nooshi",
-        distance: 1,
+        distance: 0,
         hasLuxuryPricerange: false,
         hasMediumPricerange: true,
         hasPoorPricerange: false,
